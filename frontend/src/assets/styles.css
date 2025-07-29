@@ -1,0 +1,7 @@
+.uniform-image {
+    width: 200px; /* Adjust width as needed */
+    height: 200px; /* Adjust height as needed */
+    object-fit: cover; /* Ensures the image fits well without distortion */
+    border-radius: 8px; /* Optional: adds rounded corners */
+    margin: 10px; /* Optional: adds spacing around images */
+}
